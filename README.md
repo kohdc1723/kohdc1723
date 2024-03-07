@@ -2,12 +2,12 @@
 
 ## Tech stack
 ### Programming languages
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![c#](https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![java](https://img.shields.io/badge/java-E34F26?style=for-the-badge&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ### Frontend
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
